@@ -8,7 +8,7 @@ O desenvolvimento foi focado em uma ferramenta para controle financeiro (control
 
 Este projeto é a primeira fase WEB, que será aprimorado futuramente com a utilização de banco de dados e e análíse gráfica das movimentações do usuário, para facilitar o controle financeiro do mesmo
 
-# Lingugens utilizadas
+# Linguagens utilizadas
 HMTL - CSS - JavaScript
 
 # Páginas:
