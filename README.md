@@ -21,7 +21,7 @@ HMTL - CSS - JavaScript
 ![UP_investimentos_Controle_Financeiro](https://github.com/mesquitavini/PrimeiroProjetoWeb/assets/138947548/3ff74f84-2fd7-44a3-8341-2b49ccf694d3)
 
 
-# LINK PARA ACESSO NO GIT HUB   - PUBLICO
+# LINK PARA ACESSO NO GIT HUB   - PÚBLICO
 
 https://github.com/mesquitavini/PrimeiroProjetoWeb.git
 
